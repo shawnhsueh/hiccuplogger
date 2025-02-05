@@ -10,17 +10,17 @@ Hiccup & Meal Logger is a simple **Android app** that allows users to **log hicc
 
 ---
 ##  Features & Usage
--  **Record a Hiccup**: Tap **"Record Hiccup"** button in the app or use the widget.
--  **Home Screen Widget**: Tap the widget to log a hiccup instantly.
--  **Record a Meal**: Tap **"Record Meal"** to log a meal.
--  **Timestamped Entries**: Hiccups and meals are logged with date & time.
--  **Import Logs**: Manually enter text and append it to the log.
+*  **Record a Hiccup**: Tap **"Record Hiccup"** button in the app or use the widget.
+*  **Home Screen Widget**: Tap the widget to log a hiccup instantly.
+*  **Record a Meal**: Tap **"Record Meal"** to log a meal.
+*  **Timestamped Entries**: Hiccups and meals are logged with date & time.
+*  **Import Logs**: Manually enter text and append it to the log.
   - Type in the input box & tap **"Import Text"**.
--  **Export Logs**: Save logs as `.txt` in the Downloads folder.
+*  **Export Logs**: Save logs as `.txt` in the Downloads folder.
   - Tap **"Export Log"** to save the `.txt` file to Downloads.
--  **Delete Last Entry**: Remove the most recent log entry.
+*  **Delete Last Entry**: Remove the most recent log entry.
   - Tap **"Delete Last Line"** to remove the latest log entry.
--  **Scrollable Log View**: View full logs inside the app.
+*  **Scrollable Log View**: View full logs inside the app.
   - Tap **"Show Log"** to display the recorded entries.
 
 
