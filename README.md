@@ -11,23 +11,36 @@ Hiccup & Meal Logger is a simple **Android app** that allows users to **log hicc
 ---
 
 ## 🛠️ Features
-- 🏠 **Home Screen Widget**: Tap the widget to log a hiccup instantly.
-- ⏳ **Timestamped Entries**: Hiccups and meals are logged with date & time.
-- 📂 **Import Logs**: Manually enter text and append it to the log.
-- 💾 **Export Logs**: Save logs as `.txt` in the Downloads folder.
-- 🗑️ **Delete Last Entry**: Remove the most recent log entry.
-- 📜 **Scrollable Log View**: View full logs inside the app.
+-  **Home Screen Widget**: Tap the widget to log a hiccup instantly.
+-  **Timestamped Entries**: Hiccups and meals are logged with date & time.
+-  **Import Logs**: Manually enter text and append it to the log.
+-  **Export Logs**: Save logs as `.txt` in the Downloads folder.
+-  **Delete Last Entry**: Remove the most recent log entry.
+-  **Scrollable Log View**: View full logs inside the app.
 
 ---
 
 ## 📷 App UI
-📌 _(Add screenshots of the app UI, log screen, and widget here)_
-<img src="https://github.com/shawnhsueh/hiccuplogger/blob/main/screenshot/appUI1.png?raw=true" width="100"  />
+<img src="https://github.com/shawnhsueh/hiccuplogger/blob/main/screenshot/appUI1.png?raw=true" width="500"  />
 
 
 ---
 
-## 📲 Installation
+## Example log file
+A example log file would look like the following.
+```
+h 2025-02-05 17:58:00
+h 2025-02-05 18:10:00
+m 2025-02-05 18:20:00
+h 2025-02-05 18:25:00
+h 2025-02-05 18:26:00
+h 2025-02-05 18:30:00
+h 2025-02-05 18:37:00
+```
+
+---
+
+##  Installation
 ### Clone the Repository
 ```sh
 git clone https://github.com/shawnhsueh/hiccuplogger.git
@@ -46,7 +59,7 @@ Shift + F10  # Or click ▶ button in Android Studio
 
 ---
 
-## 🚀 Usage
+##  Usage
 ### 1. **Record a Hiccup**
 - Tap **"Record Hiccup"** button in the app.
 - Tap the **home screen widget** for quick logging.
@@ -67,6 +80,3 @@ Shift + F10  # Or click ▶ button in Android Studio
 - Tap **"Show Log"** to display the recorded entries.
 
 
-
-
-🚀 **Enjoy tracking your hiccups and meals!** 😊
