@@ -3,10 +3,10 @@
 ## 📖 Overview
 Hiccup & Meal Logger is a simple **Android app** that allows users to **log hiccups and meals** with timestamps. Users can:
 
-✅ **Record Hiccups** (`h YYYY-MM-DD HH:MM:SS`)
-✅ **Record Meals** (`m YYYY-MM-DD HH:MM:SS`)
-✅ **View, Import, Export, and Delete Logs**
-✅ **Use a Widget for Quick Hiccup Logging**
+**Record Hiccups** (`h YYYY-MM-DD HH:MM:SS`)
+**Record Meals** (`m YYYY-MM-DD HH:MM:SS`)
+**View, Import, Export, and Delete Logs**
+**Use a Widget for Quick Hiccup Logging**
 
 ---
 
@@ -22,7 +22,7 @@ Hiccup & Meal Logger is a simple **Android app** that allows users to **log hicc
 
 ## 📷 App UI
 📌 _(Add screenshots of the app UI, log screen, and widget here)_
-![alt text](https://github.com/github.com/hiccuplogger/screenshot/appUI1.jpg?raw=true)
+![alt text](https://github.com/shawnhsueh/hiccuplogger/blob/main/screenshot/appUI1.png?raw=true)
 
 
 ---
