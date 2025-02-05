@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:background="@android:color/holo_blue_light"
+    android:padding="4dp">
+
+    <Button
+        android:id="@+id/widgetButton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hiccup"
+        android:textSize="8sp"
+        android:padding="2dp"/>
+</FrameLayout>
